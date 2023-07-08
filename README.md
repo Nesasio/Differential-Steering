@@ -1,2 +1,2 @@
-# Differential-Steering
-Differential Steering Implementation for Standard 2 or 4 Wheel Drive Robots.
+# Differential Steering System
+This repository contains the implementation of differential steering system for robotic projects using Arduino microcontroller. The system was developed for a battle robot for RoboWars competition.
