@@ -10,7 +10,7 @@ The major components used to build the robot were:
 | 2     | L298n Motor Driver                       |
 | 3     | Relay Module for Weapon Control          |
 | 4     | Lithium Polymer 8000mAh 12 Volts Battery |
-| 5     | Flysky CT6B Transmitter                  |
+| 5     | Flysky CT6B Controller and Receiver      |
 | 6     | High Power 12 Volts Motors               |
 
 ## Robot Design
