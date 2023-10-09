@@ -18,4 +18,4 @@ The design of the robot was made in [DS Solidworks](https://www.solidworks.com/)
 The basic design of prototype is shown:
 
 ![Model](https://github.com/Nesasio/Differential-Steering/assets/110229836/8b72cba8-2100-4c9b-8fb5-613fffbeb33e)
-*Robot Prototype*
+*Fig 1) Robot Prototype*
